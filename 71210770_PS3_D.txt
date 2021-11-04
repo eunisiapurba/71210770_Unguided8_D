@@ -1,0 +1,19 @@
+hitungan faktorial
+{I.S. : User memasukan nilai Faktorial }
+{F.S. : Menampilkan hasil dari perhitungan faktorial}
+ 
+kamus :
+       faktorial : integer 
+       i: integer
+
+algoritma :
+input(faktorial)
+      hasil <- 1
+      i <- 1
+
+while (i kurang besar dari faktorial) do
+       hasil <- hasil * i
+       <- i+1
+EndWhile
+
+output (hasil)
